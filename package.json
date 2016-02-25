@@ -1,0 +1,38 @@
+{
+  "name": "helloWorld",
+  "version": "2.3.3",
+  "description": "provides a hello world string",
+  "main": "hello_world.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "wrappy": "1"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "files": [
+    "hello_world.js",
+    "hello.js",
+    "world.js",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/selfsame/helloworld"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "helloworld",
+    "output",
+    "placeholder",
+    "text",
+    "english"
+  ],
+  "author": "Joseph Allen Parker",
+  "license": "apache-2.0"
+}
