@@ -6,10 +6,9 @@ provides the hello world string for use.
 
 ## Usage
 
-``js
-var myHelloWorld = require('helloWorld');
+```js
+var helloWorld = require('helloWorld');
 
-console.log(helloWorld)
-
+console.log(HelloWorld)
 
 ``
